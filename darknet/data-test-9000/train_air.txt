@@ -1,0 +1,2 @@
+data/obj/0_Label_676.jpg
+data/obj/1_Label_546.jpg

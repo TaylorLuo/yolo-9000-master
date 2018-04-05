@@ -1,0 +1,9 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+yolo9000-weights/*
+darknet/data/*
+darknet/darknet19_448.conv.23
+darknet/yolo.weights

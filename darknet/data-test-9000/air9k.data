@@ -1,0 +1,8 @@
+classes= 2
+train  = data/train_air.txt
+#valid  = data/test_air.txt
+labels = data/air9k.labels
+names  = data/air9k.names
+backup = /media/taylor/H/CSDN/study-nets/yolo/backup-9000/
+map = data/air9k.map
+results = results
